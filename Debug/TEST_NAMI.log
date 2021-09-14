@@ -1,0 +1,15 @@
+﻿  TEST_NAMI.cpp
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(22,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(59,27): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(59,32): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(59,37): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(59,42): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(67,27): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(67,32): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(67,37): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(67,42): warning C4838: Преобразование из "char" в "BYTE" требует сужающего преобразования.
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(210,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(219,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(226,34): warning C4305: =: усечение из "int" в "float"
+C:\Users\ilaso\Documents\GitHub\TEST_NAMI\TEST_NAMI.cpp(228,35): warning C4018: <: несоответствие типов со знаком и без знака
+  TEST_NAMI.vcxproj -> C:\Users\ilaso\Documents\GitHub\TEST_NAMI\Debug\TEST_NAMI.exe
